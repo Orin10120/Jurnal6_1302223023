@@ -1,0 +1,7 @@
+D:\Adrian\modul6_1302223023\modul6_1302223023\bin\Debug\modul6_1302223023.exe.config
+D:\Adrian\modul6_1302223023\modul6_1302223023\bin\Debug\modul6_1302223023.exe
+D:\Adrian\modul6_1302223023\modul6_1302223023\bin\Debug\modul6_1302223023.pdb
+D:\Adrian\modul6_1302223023\modul6_1302223023\obj\Debug\modul6_1302223023.csproj.AssemblyReference.cache
+D:\Adrian\modul6_1302223023\modul6_1302223023\obj\Debug\modul6_1302223023.csproj.CoreCompileInputs.cache
+D:\Adrian\modul6_1302223023\modul6_1302223023\obj\Debug\modul6_1302223023.exe
+D:\Adrian\modul6_1302223023\modul6_1302223023\obj\Debug\modul6_1302223023.pdb
